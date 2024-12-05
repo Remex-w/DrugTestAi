@@ -1,0 +1,9 @@
+# Virtual environment folders and files
+ModelApi/Lib/
+ModelApi/include/
+ModelApi/Scripts/
+ModelApi/share/
+ModelApi/pyvenv.cfg
+
+# Compiled files and cache
+src/__pycache__/
